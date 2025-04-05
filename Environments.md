@@ -4,7 +4,7 @@ In software development, different **environments** serve different purposes in 
 
 ---
 
-## 🌍 Common Environments Explained
+## 🌍 Common Environments
 
 ### 1. **Development (dev)**
 - **Who uses it?** Developers.
