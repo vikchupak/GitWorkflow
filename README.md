@@ -1,4 +1,4 @@
-# Git workflows
+# Git workflows (or "branching strategy")
 
 #### 1. **Gitflow**
 
