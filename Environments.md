@@ -76,7 +76,3 @@ feature/* --> staging --> main
 - Always keep **staging and prod environments as similar as possible** (infra, data, auth).
 - Use **infrastructure-as-code** (e.g., Terraform) to avoid config drift between environments.
 - Consider **data masking** or **mocking** in non-prod environments for security.
-
----
-
-Want help mapping this to your own project or setting up CI/CD to handle these environments?
