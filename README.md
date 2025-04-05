@@ -41,6 +41,9 @@
 ---
 
 #### 4. **Trunk-Based Development**
+
+- https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+
 - **Branches**: Mostly just `main` (a.k.a. `trunk`)
 - **Process**: Developers work on short-lived branches or commit directly to `main` behind feature flags.
 - Encourages frequent integration (multiple times daily).
