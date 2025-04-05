@@ -1,6 +1,9 @@
 # Git workflows
 
 #### 1. **Gitflow**
+
+- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
 **Gitflow** is a popular branching model introduced by Vincent Driessen. It emphasizes a strict branching strategy for managing feature development, releases, and hotfixes, typically using:
 
 - `main` (or `master`) — for production-ready code.
