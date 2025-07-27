@@ -8,5 +8,42 @@
 GitHub Actions (Platform)
   └── Workflows (YAML file)
          └── Jobs (Individual task groups)
-                └── Tasks (Commands or actions)
+                └── Steps/Tasks (Commands or actions)
 ```
+
+Let's clarify and compare **GitHub Actions**, **GitHub Workflows**, and **GitHub Jobs** — these are not competing technologies but **hierarchical building blocks** within GitHub's CI/CD system:
+
+---
+
+### **GitHub Actions**
+
+GitHub Actions is the **automation platform** within GitHub. It allows you to run custom scripts on **GitHub-hosted** or self-hosted **runners**, triggered by GitHub events (e.g., push, pull request).
+
+---
+
+### **GitHub Workflows**
+
+A **workflow** is a **YAML configuration file** (usually stored in `.github/workflows/`) that defines **when and how** your automation should run.
+
+* Triggered by events like `push`, `pull_request`, `schedule`, or manual `workflow_dispatch`.
+* A workflow contains **one or more jobs**.
+
+---
+
+### **GitHub Jobs**
+
+A **job** is a **set of tasks** that run in the same **environment (runner)**. Jobs run either in **parallel** or **sequentially** (if you specify dependencies with `needs:`).
+
+* Jobs are part of a workflow.
+* Jobs run in clean environments (Docker container, virtual machine, or your own runner).
+
+---
+
+### Summary Table:
+
+| Term           | Type          | Role / Scope                     | Where it’s Defined          |
+| -------------- | ------------- | -------------------------------- | --------------------------- |
+| GitHub Actions | Platform      | Automation engine                | Built into GitHub           |
+| Workflow       | YAML file     | Defines trigger + jobs           | `.github/workflows/*.yml`   |
+| Job            | Workflow unit | Contains steps, runs on a runner | Inside a workflow YAML file |
+| Step           | Sub-unit      | Individual command or action     | Inside a job                |
