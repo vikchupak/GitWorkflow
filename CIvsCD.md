@@ -1,3 +1,5 @@
+<img width="1014" height="575" alt="image" src="https://github.com/user-attachments/assets/b390b7ed-8215-4cd7-8ba0-cdb52f9c367f" />
+
 The terms **CI (Continuous Integration)** and **CD (Continuous Delivery / Continuous Deployment)** are closely related but refer to different stages in the software development lifecycle.
 
 ---
