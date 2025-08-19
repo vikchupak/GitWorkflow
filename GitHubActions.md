@@ -32,7 +32,7 @@ A **workflow** is a **YAML configuration file** (usually stored in `.github/work
 
 ### **GitHub Jobs**
 
-A **job** is a **set of tasks** that run in the same **environment (runner)**. Jobs run either in **parallel** or **sequentially** (if you specify dependencies with `needs:`).
+A **job** is a **set of tasks** that run in the same **environment (RUNNER)**. Jobs run either in **parallel** or **sequentially** (if you specify dependencies with `needs:`).
 
 * Jobs are part of a workflow.
 * Jobs run in clean environments (Docker container, virtual machine, or your own runner).
