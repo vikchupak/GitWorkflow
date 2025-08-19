@@ -13,6 +13,6 @@
 - Push
   - Push Artifact to Repo
 - Deploy
-  - Deploy the image/artifact to an environment.
+  - Deploy the image/artifact to server.
 
 https://gitlab.com/devopsbootcamp8550504/08-jenkins/01-02-03-04-05-cicdwithjenkins/-/blob/pipeline-aws-deploy/Jenkinsfile?ref_type=heads
