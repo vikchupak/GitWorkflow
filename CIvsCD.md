@@ -1,7 +1,9 @@
 <img width="1014" height="575" alt="image" src="https://github.com/user-attachments/assets/b390b7ed-8215-4cd7-8ba0-cdb52f9c367f" />
 
 <img width="1608" height="912" alt="image" src="https://github.com/user-attachments/assets/a788ff7f-0c15-4475-92d9-71ddf7d203e5" />
-Unit and e-2e tests run in runner environtment before image build.
+
+- Unit and e-2e tests run in runner environtment before image build.
+- Java flow: `mvn package` - compile > **run tests** > package (produce `.jar`). Build a docker image using the generated `.jar`.
 
 ---
 
