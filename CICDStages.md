@@ -1,0 +1,6 @@
+- Checkout
+- Build (+)
+- Test
+- Package
+- Push (+)
+- Deploy (+)
