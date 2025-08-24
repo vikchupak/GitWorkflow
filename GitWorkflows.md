@@ -1,5 +1,13 @@
 # Git workflows (or "branching strategy")
 
+# Semantic Versioning
+
+Tags follow the format vMAJOR.MINOR.PATCH
+
+# Tags
+
+???
+
 # 1. **Gitflow**
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
