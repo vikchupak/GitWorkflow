@@ -1,6 +1,6 @@
 # Git workflows (or "branching strategy")
 
-# Semantic Versioning & Tags
+# Semantic Versioning & Tags & Releases
 
 Tags follow the format vMAJOR.MINOR.PATCH
 
