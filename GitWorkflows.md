@@ -1,16 +1,15 @@
 # Git workflows (or "branching strategy")
 
-# Semantic Versioning
+# Semantic Versioning & Tags
 
 Tags follow the format vMAJOR.MINOR.PATCH
 
-# Tags
-
-???
+- [Tutorial](https://www.youtube.com/watch?v=D3W66tfYGuc)
 
 # 1. **Gitflow**
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- [Tutorial](https://www.youtube.com/watch?v=mZzmaC0pn1c)
 
 **Gitflow** is a popular branching model introduced by Vincent Driessen. It emphasizes a strict branching strategy for managing feature development, releases, and hotfixes, typically using:
 
