@@ -220,6 +220,10 @@ Most companies **extend GitHub Flow** to support QA without going full Git Flow:
 
 ---
 
+- **Like gitflow but without RELEASE BRANCH. Deploy to envs: production, staging, development**
+
+---
+
 # 4. **Trunk-Based Development**
 
 - https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
