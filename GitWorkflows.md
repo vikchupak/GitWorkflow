@@ -9,8 +9,14 @@
 - `main` (or `master`) — for production-ready code.
 - `develop` — for integration and ongoing development.
 - `feature/*` — for individual features.
-- `release/*` — for preparing a new production release.
+- `release/*` — **for preparing a new production release.**
 - `hotfix/*` — for quick patches to production.
+
+---
+
+- **Production deploy happens via RELEASE BRANCH.**
+- **Deployment happens when you decide to ship a release.**
+- **Deployment = manual, release-driven.**
 
 ### Pros of Gitflow:
 - Structured and great for teams releasing software in cycles.
