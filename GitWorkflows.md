@@ -236,6 +236,10 @@ Most companies **extend GitHub Flow** to support QA without going full Git Flow:
 
 ---
 
+Trunk-Based is the same as GitHub Flow but with feature flags, and features enabled only for test users (Targeted Rollout/User-targeted feature flag).
+
+---
+
 # 5. **Release Flow (Microsoft)**
 - Based on long-lived `main`, with branch-per-release strategy.
 - New features merge into `main`, and releases are branched off as needed.
