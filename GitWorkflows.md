@@ -14,6 +14,7 @@
 
 ---
 
+- **Has environment branches**
 - **Production deploy happens via RELEASE BRANCH.**
 - **Deployment happens when you decide to ship a release.**
 - **Deployment = manual, release-driven.**
