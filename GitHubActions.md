@@ -1,4 +1,5 @@
-Github workflow = pipeline
+- Github workflow = pipeline
+- Secrets are in repo settings
 
 - [Tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI)
 
