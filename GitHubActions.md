@@ -14,8 +14,8 @@
 - [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
 - [Demo project](https://github.com/vikchupak/github-actions)
 
-### Settings
-- Secrets are in repo settings
+### Secrets
+- Secrets are in `repo settings > secrets > actions`
 
 ### Tutorial
 - [Tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI)
