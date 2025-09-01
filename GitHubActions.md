@@ -1,4 +1,5 @@
 ### Github - Jenkins map
+- `.github/workflows/*.yml` = `Jenkinsfile`
 - Github workflow = Jenkins pipeline
 - Github job = Jenkins stage
 - Github step = Jenkins step
