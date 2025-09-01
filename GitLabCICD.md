@@ -16,7 +16,7 @@
 
 ---
 
-- Jenkins info
+- [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
 - [Demo project](https://gitlab.com/vikchupak/gitlab-cicd)
 
 ---
