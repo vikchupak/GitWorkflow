@@ -3,6 +3,7 @@
 - Github job = Jenkins stage
 - Github step = Jenkins step
 - [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
+- [Demo project](https://github.com/vikchupak/github-actions)
 
 ### Settings
 - Secrets are in repo settings
