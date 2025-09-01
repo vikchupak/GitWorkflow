@@ -1,8 +1,9 @@
 ### Gitlab - Jenkins map
 - `.gitlab-ci.yml` = `Jenkinsfile`
-- Gitlab pipeline = Jenkins pipeline
-- Gitlab stage = Jenkins stage
-- Gitlab Job = Jenkins step
+- Gitlab `pipeline` = Jenkins `pipeline`
+- Gitlab `stage` = Jenkins `stage`
+- Gitlab `job` = Jenkins `step`
+- Gitlab `script line` = Jenkins `sh`
 
 ---
 
