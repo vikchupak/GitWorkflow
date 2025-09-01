@@ -11,13 +11,11 @@
 
 ---
 
-### Secrets
-- Secrets are in `repo settings > CICD > Variables`
-
----
-
 - [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
 - [Demo project](https://gitlab.com/vikchupak/gitlab-cicd)
+
+### Secrets
+- Secrets are in `repo settings > CICD > Variables`
 
 ---
 
