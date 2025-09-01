@@ -1,7 +1,7 @@
 ### Github - Jenkins map
 - Github workflow = Jenkins pipeline
 - Github job = Jenkins stage
-- Github step = Jenkins stage
+- Github step = Jenkins step
 - [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
 
 ### Settings
