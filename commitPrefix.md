@@ -1,3 +1,9 @@
+# Conventional commits & semantic versioning
+
+- https://github.com/conventional-changelog/conventional-changelog
+
+---
+
 A list of conventional commit prefixes (also known as **commit types**) along with their **meanings**:
 
 ---
