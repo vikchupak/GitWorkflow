@@ -7,12 +7,12 @@
 
 ---
 
-### Secrets
-- Secrets are in `repo settings > CICD > Variables`
+- Gitlab uses docker containers as runners
 
 ---
 
-- Gitlab uses docker containers as runners
+### Secrets
+- Secrets are in `repo settings > CICD > Variables`
 
 ---
 
