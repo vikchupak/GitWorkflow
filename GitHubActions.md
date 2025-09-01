@@ -7,6 +7,10 @@
 
 ---
 
+- Github uses full virtual machines (VMs) as runners (not just Docker containers, like gitlab)
+
+---
+
 - [Jenkins info](https://github.com/vikchupak/Jenkins/blob/main/jobs.md)
 - [Demo project](https://github.com/vikchupak/github-actions)
 
